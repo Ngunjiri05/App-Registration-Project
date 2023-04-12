@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Lounge</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="email_hunt">Enter email</string>
+    <string name="pass_hint">Enter password</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="reg_hint">Register</string>
+    <string name="log_hint">Login</string>
+</resources>
